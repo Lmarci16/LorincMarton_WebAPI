@@ -1,0 +1,6 @@
+@LorincMarton_WebAPI_HostAddress = http://localhost:5150
+
+GET {{LorincMarton_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
